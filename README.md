@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MengzhangLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MengzhangLI)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+Related source is copied from: https://kilienazure.com/github-profile-readme/
+-->
